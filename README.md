@@ -15,7 +15,7 @@
 
 ## Background
 
-This project involves analyzing home sales data to derive insights using Apache Spark and SparkSQL. By leveraging the distributed computing capabilities of Spark, the project aims to efficiently process and analyze large datasets, enabling more informed decision-making in the real estate market.
+This project analyses home sales data to derive insights using Apache Spark and SparkSQL. By leveraging the distributed computing capabilities of Spark, the project aims to efficiently process and analyze large datasets, enabling more informed decision-making in the real estate market.
 
 ## Objectives
 
@@ -32,8 +32,9 @@ The dataset used in this project is sourced from [Citi Bike Data](https://2u-dat
 
 - **Python**: The programming language used for data processing and analysis.
 - **PySpark**: Python API for Apache Spark, used for data processing and querying.
-- **Jupyter Notebook**: An interactive environment to write and execute code.
+- **Google Colab**: An online interactive environment to write and execute code.
 - **GitHub**: For version control and collaboration.
+
 
 ## Setup
 
@@ -47,7 +48,7 @@ To replicate this analysis, follow these steps:
    ```bash
    pip install pyspark
    ```
-3. Run the Jupyter Notebook: Open the Home_Sales.ipynb file in Jupyter Notebook or JupyterLab and run the cells to execute the analysis.
+3. Run the Jupyter Notebook: Open the Home_Sales.ipynb file in Google Colab and run the cells to execute the analysis.
 
 ## Analysis Process
 
